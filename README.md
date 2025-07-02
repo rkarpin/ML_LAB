@@ -15,3 +15,5 @@ https://github.com/rkarpin/ML_LAB/blob/main/ML_homework_10.ipynb
 https://github.com/rkarpin/ML_LAB/blob/main/ML_homework_11.ipynb
 
 https://github.com/rkarpin/ML_LAB/blob/main/ML_homework_12.ipynb
+
+https://github.com/rkarpin/ML_LAB/blob/main/ML_homework_13.ipynb
